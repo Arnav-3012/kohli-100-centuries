@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files)
+data/odis_csv2/
+data/tests_csv2/
+
+# Mac
+.DS_Store 

@@ -1,0 +1,297 @@
+match_id,date,venue,batting_team,opponent,innings,runs,balls,dismissed,century,fifty
+343732,2008-08-18,Rangiri Dambulla International Stadium,India,Sri Lanka,1,12,22,True,False,False
+343733,2008-08-20,Rangiri Dambulla International Stadium,India,Sri Lanka,2,37,69,True,False,False
+343734,2008-08-24,R Premadasa Stadium,India,Sri Lanka,1,25,41,True,False,False
+366341,2008-08-27,R Premadasa Stadium,India,Sri Lanka,1,54,66,True,False,True
+343736,2008-08-29,R Premadasa Stadium,India,Sri Lanka,2,31,47,True,False,False
+403383,2009-09-14,R Premadasa Stadium,India,Sri Lanka,1,2,2,False,False,False
+415278,2009-09-26,SuperSport Park,India,Pakistan,2,16,24,True,False,False
+415284,2009-09-30,New Wanderers Stadium,India,West Indies,2,79,107,False,False,True
+416236,2009-10-25,Reliance Stadium,India,Australia,2,30,42,True,False,False
+416239,2009-11-02,"Punjab Cricket Association Stadium, Mohali",India,Australia,2,10,17,True,False,False
+430886,2009-12-15,Madhavrao Scindia Cricket Ground,India,Sri Lanka,1,27,19,True,False,False
+430887,2009-12-18,"Vidarbha Cricket Association Stadium, Jamtha",India,Sri Lanka,1,54,65,True,False,True
+430889,2009-12-24,Eden Gardens,India,Sri Lanka,2,107,119,True,True,False
+434259,2010-01-05,Shere Bangla National Stadium,India,Sri Lanka,1,9,12,True,False,False
+434260,2010-01-07,Shere Bangla National Stadium,India,Bangladesh,2,91,107,True,False,True
+434262,2010-01-10,Shere Bangla National Stadium,India,Sri Lanka,2,71,69,False,False,True
+434263,2010-01-11,Shere Bangla National Stadium,India,Bangladesh,2,102,95,False,True,False
+434264,2010-01-13,Shere Bangla National Stadium,India,Sri Lanka,1,2,8,True,False,False
+441827,2010-02-21,Sawai Mansingh Stadium,India,South Africa,1,31,46,True,False,False
+441829,2010-02-27,"Sardar Patel Stadium, Motera",India,South Africa,2,57,71,True,False,True
+452147,2010-05-30,Queens Sports Club,India,Sri Lanka,2,82,93,True,False,True
+452149,2010-06-03,Harare Sports Club,India,Zimbabwe,1,18,29,True,False,False
+452150,2010-06-05,Harare Sports Club,India,Sri Lanka,1,68,95,True,False,True
+455232,2010-06-16,Rangiri Dambulla International Stadium,India,Bangladesh,2,11,22,True,False,False
+455234,2010-06-19,Rangiri Dambulla International Stadium,India,Pakistan,2,18,27,True,False,False
+455236,2010-06-22,Rangiri Dambulla International Stadium,India,Sri Lanka,1,10,14,True,False,False
+455237,2010-06-24,Rangiri Dambulla International Stadium,India,Sri Lanka,1,28,34,True,False,False
+456663,2010-08-16,Rangiri Dambulla International Stadium,India,Sri Lanka,2,0,3,True,False,False
+456665,2010-08-25,Rangiri Dambulla International Stadium,India,New Zealand,1,8,16,True,False,False
+456668,2010-08-28,Rangiri Dambulla International Stadium,India,Sri Lanka,2,37,57,True,False,False
+464529,2010-10-20,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,Australia,2,118,125,True,True,False
+467883,2010-11-28,Nehru Stadium,India,New Zealand,1,105,107,True,True,False
+467884,2010-12-01,Sawai Mansingh Stadium,India,New Zealand,2,64,73,True,False,True
+467885,2010-12-04,Reliance Stadium,India,New Zealand,2,63,73,False,False,True
+467886,2010-12-07,M Chinnaswamy Stadium,India,New Zealand,2,0,3,True,False,False
+467887,2010-12-10,"MA Chidambaram Stadium, Chepauk",India,New Zealand,2,2,8,True,False,False
+463150,2011-01-12,Kingsmead,India,South Africa,2,54,72,True,False,True
+463151,2011-01-15,New Wanderers Stadium,India,South Africa,1,22,34,True,False,False
+463152,2011-01-18,Newlands,India,South Africa,2,28,42,True,False,False
+463153,2011-01-21,St George's Park,India,South Africa,2,87,92,False,False,True
+463154,2011-01-23,SuperSport Park,India,South Africa,2,2,6,True,False,False
+433558,2011-02-19,Shere Bangla National Stadium,India,Bangladesh,1,100,86,False,True,False
+433568,2011-02-27,M Chinnaswamy Stadium,India,England,1,8,5,True,False,False
+433578,2011-03-06,M Chinnaswamy Stadium,India,Ireland,2,34,54,False,False,False
+433582,2011-03-09,Feroz Shah Kotla,India,Netherlands,2,12,20,True,False,False
+433586,2011-03-12,"Vidarbha Cricket Association Stadium, Jamtha",India,South Africa,1,1,3,True,False,False
+433599,2011-03-20,"MA Chidambaram Stadium, Chepauk",India,West Indies,1,59,78,True,False,True
+433601,2011-03-24,"Sardar Patel Stadium, Motera",India,Australia,2,24,33,True,False,False
+433605,2011-03-30,"Punjab Cricket Association Stadium, Mohali",India,Pakistan,1,9,21,True,False,False
+433606,2011-04-02,Wankhede Stadium,India,Sri Lanka,2,35,52,True,False,False
+489221,2011-06-06,"Queen's Park Oval, Port of Spain",India,West Indies,2,2,8,True,False,False
+489222,2011-06-08,"Queen's Park Oval, Port of Spain",India,West Indies,2,81,106,True,False,True
+489223,2011-06-11,"Sir Vivian Richards Stadium, North Sound",India,West Indies,2,0,1,True,False,False
+489224,2011-06-13,"Sir Vivian Richards Stadium, North Sound",India,West Indies,2,22,33,True,False,False
+489225,2011-06-16,"Sabina Park, Kingston",India,West Indies,1,94,107,True,False,True
+474477,2011-09-03,Riverside Ground,India,England,1,55,74,True,False,True
+474478,2011-09-06,The Rose Bowl,India,England,1,9,9,True,False,False
+474479,2011-09-09,Kennington Oval,India,England,1,7,18,True,False,False
+474480,2011-09-11,Lord's,India,England,1,16,39,True,False,False
+474481,2011-09-16,Sophia Gardens,India,England,1,107,93,True,True,False
+521218,2011-10-14,"Rajiv Gandhi International Stadium, Uppal",India,England,1,37,63,True,False,False
+521219,2011-10-17,Feroz Shah Kotla,India,England,2,112,104,False,True,False
+521220,2011-10-20,"Punjab Cricket Association Stadium, Mohali",India,England,2,35,30,True,False,False
+521221,2011-10-23,Wankhede Stadium,India,England,2,86,99,False,False,True
+521222,2011-10-25,Eden Gardens,India,England,1,0,5,True,False,False
+536929,2011-11-29,Barabati Stadium,India,West Indies,2,3,7,True,False,False
+536930,2011-12-02,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,West Indies,2,117,127,True,True,False
+536931,2011-12-05,"Sardar Patel Stadium, Motera",India,West Indies,2,20,30,True,False,False
+536932,2011-12-08,Holkar Cricket Stadium,India,West Indies,1,23,13,False,False,False
+536933,2011-12-11,"MA Chidambaram Stadium, Chepauk",India,West Indies,1,80,86,True,False,True
+518956,2012-02-05,Melbourne Cricket Ground,India,Australia,2,31,34,True,False,False
+518957,2012-02-08,Western Australia Cricket Association Ground,India,Sri Lanka,2,77,94,True,False,True
+518959,2012-02-12,Adelaide Oval,India,Australia,2,18,28,True,False,False
+518960,2012-02-14,Adelaide Oval,India,Sri Lanka,2,15,25,True,False,False
+518962,2012-02-19,"Brisbane Cricket Ground, Woolloongabba",India,Australia,2,12,25,True,False,False
+518963,2012-02-21,"Brisbane Cricket Ground, Woolloongabba",India,Sri Lanka,2,66,83,True,False,True
+518965,2012-02-26,Sydney Cricket Ground,India,Australia,2,21,27,True,False,False
+518966,2012-02-28,Bellerive Oval,India,Sri Lanka,2,133,91,False,True,False
+535795,2012-03-13,Shere Bangla National Stadium,India,Sri Lanka,1,108,122,True,True,False
+535797,2012-03-16,Shere Bangla National Stadium,India,Bangladesh,1,66,82,True,False,True
+535798,2012-03-18,Shere Bangla National Stadium,India,Pakistan,2,183,151,True,True,False
+564781,2012-07-21,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",India,Sri Lanka,1,106,113,True,True,False
+564782,2012-07-24,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",India,Sri Lanka,1,1,5,True,False,False
+564783,2012-07-28,R Premadasa Stadium,India,Sri Lanka,2,38,69,True,False,False
+564784,2012-07-31,R Premadasa Stadium,India,Sri Lanka,2,128,121,False,True,False
+564785,2012-08-04,Pallekele International Cricket Stadium,India,Sri Lanka,1,23,36,True,False,False
+589308,2012-12-30,"MA Chidambaram Stadium, Chepauk",India,Pakistan,1,0,5,True,False,False
+589309,2013-01-03,Eden Gardens,India,Pakistan,2,6,9,True,False,False
+589310,2013-01-06,Feroz Shah Kotla,India,Pakistan,1,7,18,True,False,False
+565812,2013-01-11,Saurashtra Cricket Association Stadium,India,England,2,15,22,True,False,False
+565813,2013-01-15,Nehru Stadium,India,England,1,37,55,True,False,False
+565814,2013-01-19,JSCA International Stadium Complex,India,England,2,77,80,False,False,True
+565815,2013-01-23,"Punjab Cricket Association Stadium, Mohali",India,England,2,26,33,True,False,False
+565816,2013-01-27,Himachal Pradesh Cricket Association Stadium,India,England,1,0,1,True,False,False
+578614,2013-06-06,Sophia Gardens,India,South Africa,1,31,41,True,False,False
+578619,2013-06-11,Kennington Oval,India,West Indies,2,22,18,True,False,False
+578623,2013-06-15,Edgbaston,India,Pakistan,2,22,27,False,False,False
+566947,2013-06-20,Sophia Gardens,India,Sri Lanka,2,58,65,False,False,True
+566948,2013-06-23,Edgbaston,India,England,1,43,36,True,False,False
+597924,2013-06-30,"Sabina Park, Kingston",India,West Indies,1,11,21,True,False,False
+597925,2013-07-02,"Sabina Park, Kingston",India,Sri Lanka,2,2,5,True,False,False
+597926,2013-07-05,"Queen's Park Oval, Port of Spain",India,West Indies,1,102,88,True,True,False
+597928,2013-07-09,"Queen's Park Oval, Port of Spain",India,Sri Lanka,1,31,52,True,False,False
+597929,2013-07-11,"Queen's Park Oval, Port of Spain",India,Sri Lanka,2,2,5,True,False,False
+643665,2013-07-24,Harare Sports Club,India,Zimbabwe,2,115,109,True,True,False
+643667,2013-07-26,Harare Sports Club,India,Zimbabwe,1,14,18,True,False,False
+643669,2013-07-28,Harare Sports Club,India,Zimbabwe,2,68,91,False,False,True
+647249,2013-10-13,Maharashtra Cricket Association Stadium,India,Australia,2,61,85,True,False,True
+647251,2013-10-16,Sawai Mansingh Stadium,India,Australia,2,100,54,False,True,False
+647253,2013-10-19,"Punjab Cricket Association Stadium, Mohali",India,Australia,1,68,74,True,False,True
+647259,2013-10-30,"Vidarbha Cricket Association Stadium, Jamtha",India,Australia,2,115,66,False,True,False
+647261,2013-11-02,M Chinnaswamy Stadium,India,Australia,1,0,3,True,False,False
+676529,2013-11-21,Nehru Stadium,India,West Indies,2,86,89,True,False,True
+676531,2013-11-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,West Indies,1,99,102,True,False,True
+676533,2013-11-27,Green Park,India,West Indies,2,19,18,True,False,False
+648651,2013-12-05,New Wanderers Stadium,India,South Africa,2,31,38,True,False,False
+648653,2013-12-08,Kingsmead,India,South Africa,2,0,6,True,False,False
+667641,2014-01-19,McLean Park,India,New Zealand,2,123,113,True,True,False
+667643,2014-01-22,Seddon Park,India,New Zealand,2,78,69,True,False,True
+667645,2014-01-25,Eden Park,India,New Zealand,2,6,20,True,False,False
+667647,2014-01-28,Seddon Park,India,New Zealand,1,2,11,True,False,False
+667649,2014-01-31,Westpac Stadium,India,New Zealand,2,82,78,True,False,True
+710293,2014-02-26,Khan Shaheb Osman Ali Stadium,India,Bangladesh,2,136,129,True,True,False
+710297,2014-02-28,Khan Shaheb Osman Ali Stadium,India,Sri Lanka,1,48,52,True,False,False
+710301,2014-03-02,Shere Bangla National Stadium,India,Pakistan,1,5,11,True,False,False
+667723,2014-08-27,Sophia Gardens,India,England,1,0,3,True,False,False
+667725,2014-08-30,Trent Bridge,India,England,2,40,50,True,False,False
+667727,2014-09-02,Edgbaston,India,England,2,1,3,False,False,False
+667729,2014-09-05,Headingley,India,England,2,13,22,True,False,False
+770121,2014-10-08,Nehru Stadium,India,West Indies,2,2,5,True,False,False
+770123,2014-10-11,Feroz Shah Kotla,India,West Indies,1,62,80,True,False,True
+770127,2014-10-17,Himachal Pradesh Cricket Association Stadium,India,West Indies,1,127,115,True,True,False
+792289,2014-11-02,Barabati Stadium,India,Sri Lanka,1,22,22,True,False,False
+792291,2014-11-06,"Sardar Patel Stadium, Motera",India,Sri Lanka,2,49,44,True,False,False
+792293,2014-11-09,"Rajiv Gandhi International Stadium, Uppal",India,Sri Lanka,2,53,61,True,False,True
+792295,2014-11-13,Eden Gardens,India,Sri Lanka,1,66,65,True,False,True
+792297,2014-11-16,JSCA International Stadium Complex,India,Sri Lanka,2,139,130,False,True,False
+754749,2015-01-18,Melbourne Cricket Ground,India,Australia,1,9,17,True,False,False
+754753,2015-01-20,"Brisbane Cricket Ground, Woolloongabba",India,England,1,4,8,True,False,False
+754757,2015-01-26,Sydney Cricket Ground,India,Australia,1,3,9,False,False,False
+754759,2015-01-30,Western Australia Cricket Association Ground,India,England,1,8,19,True,False,False
+656405,2015-02-15,Adelaide Oval,India,Pakistan,1,107,127,True,True,False
+656423,2015-02-22,Melbourne Cricket Ground,India,South Africa,1,46,60,True,False,False
+656439,2015-02-28,Western Australia Cricket Association Ground,India,United Arab Emirates,2,33,41,False,False,False
+656453,2015-03-06,Western Australia Cricket Association Ground,India,West Indies,2,33,39,True,False,False
+656465,2015-03-10,Seddon Park,India,Ireland,2,44,44,False,False,False
+656475,2015-03-14,Eden Park,India,Zimbabwe,2,38,52,True,False,False
+656485,2015-03-19,Melbourne Cricket Ground,India,Bangladesh,1,3,9,True,False,False
+656493,2015-03-26,Sydney Cricket Ground,India,Australia,2,1,13,True,False,False
+870731,2015-06-18,Shere Bangla National Stadium,India,Bangladesh,2,1,4,True,False,False
+870733,2015-06-21,Shere Bangla National Stadium,India,Bangladesh,1,23,30,True,False,False
+870735,2015-06-24,Shere Bangla National Stadium,India,Bangladesh,1,25,37,True,False,False
+903593,2015-10-11,Green Park,India,South Africa,2,11,19,True,False,False
+903595,2015-10-14,Holkar Cricket Stadium,India,South Africa,1,12,18,False,False,False
+903597,2015-10-18,Saurashtra Cricket Association Stadium,India,South Africa,2,77,103,True,False,True
+903599,2015-10-22,"MA Chidambaram Stadium, Chepauk",India,South Africa,1,138,142,True,True,False
+903601,2015-10-25,Wankhede Stadium,India,South Africa,2,7,7,True,False,False
+895807,2016-01-12,Western Australia Cricket Association Ground,India,Australia,1,91,99,True,False,True
+895809,2016-01-15,"Brisbane Cricket Ground, Woolloongabba",India,Australia,1,59,68,True,False,True
+895811,2016-01-17,Melbourne Cricket Ground,India,Australia,1,117,119,True,True,False
+895813,2016-01-20,Manuka Oval,India,Australia,2,106,95,True,True,False
+895815,2016-01-23,Sydney Cricket Ground,India,Australia,2,8,13,True,False,False
+1030219,2016-10-16,Himachal Pradesh Cricket Association Stadium,India,New Zealand,2,85,81,False,False,True
+1030221,2016-10-20,Feroz Shah Kotla,India,New Zealand,2,9,13,True,False,False
+1030223,2016-10-23,"Punjab Cricket Association Stadium, Mohali",India,New Zealand,2,154,135,False,True,False
+1030225,2016-10-26,JSCA International Stadium Complex,India,New Zealand,2,45,51,True,False,False
+1030227,2016-10-29,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,New Zealand,1,65,76,True,False,True
+1034819,2017-01-15,Maharashtra Cricket Association Stadium,India,England,2,122,106,True,True,False
+1034821,2017-01-19,Barabati Stadium,India,England,1,8,5,True,False,False
+1034823,2017-01-22,Eden Gardens,India,England,2,55,66,True,False,True
+1022353,2017-06-04,Edgbaston,India,Pakistan,1,81,68,False,False,True
+1022361,2017-06-08,Kennington Oval,India,Sri Lanka,1,0,5,True,False,False
+1022367,2017-06-11,Kennington Oval,India,South Africa,2,76,102,False,False,True
+1022373,2017-06-15,Edgbaston,India,Bangladesh,2,96,78,False,False,True
+1022375,2017-06-18,Kennington Oval,India,Pakistan,2,5,9,True,False,False
+1098206,2017-06-23,"Queen's Park Oval, Port of Spain",India,West Indies,1,32,47,False,False,False
+1098207,2017-06-25,"Queen's Park Oval, Port of Spain",India,West Indies,1,87,67,True,False,True
+1098208,2017-06-30,"Sir Vivian Richards Stadium, North Sound",India,West Indies,1,11,22,True,False,False
+1098209,2017-07-02,"Sir Vivian Richards Stadium, North Sound",India,West Indies,2,3,12,True,False,False
+1098210,2017-07-06,"Sabina Park, Kingston",India,West Indies,2,111,115,False,True,False
+1109605,2017-08-20,Rangiri Dambulla International Stadium,India,Sri Lanka,2,82,70,False,False,True
+1109606,2017-08-24,Pallekele International Cricket Stadium,India,Sri Lanka,2,4,2,True,False,False
+1109607,2017-08-27,Pallekele International Cricket Stadium,India,Sri Lanka,2,3,12,True,False,False
+1109608,2017-08-31,"R.Premadasa Stadium, Khettarama",India,Sri Lanka,1,131,98,True,True,False
+1109609,2017-09-03,"R.Premadasa Stadium, Khettarama",India,Sri Lanka,2,110,118,False,True,False
+1119496,2017-09-17,"MA Chidambaram Stadium, Chepauk",India,Australia,1,0,4,True,False,False
+1119497,2017-09-21,Eden Gardens,India,Australia,1,92,109,True,False,True
+1119498,2017-09-24,Holkar Cricket Stadium,India,Australia,2,28,35,True,False,False
+1119499,2017-09-28,M.Chinnaswamy Stadium,India,Australia,2,21,21,True,False,False
+1119500,2017-10-01,"Vidarbha Cricket Association Stadium, Jamtha",India,Australia,2,39,56,True,False,False
+1120090,2017-10-22,Wankhede Stadium,India,New Zealand,1,121,129,True,True,False
+1120091,2017-10-25,Maharashtra Cricket Association Stadium,India,New Zealand,2,29,29,True,False,False
+1120092,2017-10-29,Green Park,India,New Zealand,1,113,108,True,True,False
+1122279,2018-02-01,Kingsmead,India,South Africa,2,112,120,True,True,False
+1122280,2018-02-04,SuperSport Park,India,South Africa,2,46,51,False,False,False
+1122281,2018-02-07,Newlands,India,South Africa,1,160,165,False,True,False
+1122282,2018-02-10,The Wanderers Stadium,India,South Africa,1,75,84,True,False,True
+1122283,2018-02-13,St George's Park,India,South Africa,1,36,54,False,False,False
+1122284,2018-02-16,SuperSport Park,India,South Africa,2,129,98,False,True,False
+1119546,2018-07-12,Trent Bridge,India,England,2,75,83,True,False,True
+1119547,2018-07-14,Lord's,India,England,2,45,58,True,False,False
+1119548,2018-07-17,Headingley,India,England,1,71,72,True,False,True
+1157754,2018-10-21,Barsapara Cricket Stadium,India,West Indies,2,140,108,True,True,False
+1157755,2018-10-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,West Indies,1,157,131,False,True,False
+1157756,2018-10-27,Maharashtra Cricket Association Stadium,India,West Indies,2,107,120,True,True,False
+1157757,2018-10-29,Brabourne Stadium,India,West Indies,1,16,18,True,False,False
+1157758,2018-11-01,Greenfield International Stadium,India,West Indies,2,33,30,False,False,False
+1144997,2019-01-12,Sydney Cricket Ground,India,Australia,2,3,8,True,False,False
+1144998,2019-01-15,Adelaide Oval,India,Australia,2,104,113,True,True,False
+1144999,2019-01-18,Melbourne Cricket Ground,India,Australia,2,46,62,True,False,False
+1153691,2019-01-23,McLean Park,India,New Zealand,2,45,59,True,False,False
+1153692,2019-01-26,Bay Oval,India,New Zealand,1,43,45,True,False,False
+1153693,2019-01-28,Bay Oval,India,New Zealand,2,60,74,True,False,True
+1168242,2019-03-02,"Rajiv Gandhi International Stadium, Uppal",India,Australia,2,44,46,True,False,False
+1168243,2019-03-05,"Vidarbha Cricket Association Stadium, Jamtha",India,Australia,1,116,122,True,True,False
+1168244,2019-03-08,JSCA International Stadium Complex,India,Australia,2,123,96,True,True,False
+1168245,2019-03-10,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,Australia,1,7,6,True,False,False
+1168246,2019-03-13,Arun Jaitley Stadium,India,Australia,2,20,22,True,False,False
+1144490,2019-06-05,The Rose Bowl,India,South Africa,2,18,34,True,False,False
+1144496,2019-06-09,Kennington Oval,India,Australia,1,82,79,True,False,True
+1144504,2019-06-16,Old Trafford,India,Pakistan,1,77,66,True,False,True
+1144516,2019-06-27,Old Trafford,India,West Indies,1,72,83,True,False,True
+1144520,2019-06-30,Edgbaston,India,England,2,66,76,True,False,True
+1144522,2019-07-02,Edgbaston,India,Bangladesh,1,26,27,True,False,False
+1144526,2019-07-06,Headingley,India,Sri Lanka,2,34,42,False,False,False
+1144528,2019-07-09,Old Trafford,India,New Zealand,2,1,6,True,False,False
+1188625,2019-08-11,"Queen's Park Oval, Trinidad",India,West Indies,1,120,131,True,True,False
+1188626,2019-08-14,"Queen's Park Oval, Trinidad",India,West Indies,2,114,102,False,True,False
+1187021,2019-12-15,"MA Chidambaram Stadium, Chepauk",India,West Indies,1,4,4,True,False,False
+1187022,2019-12-18,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,West Indies,1,0,1,True,False,False
+1187023,2019-12-22,Barabati Stadium,India,West Indies,2,85,82,True,False,True
+1187027,2020-01-14,Wankhede Stadium,India,Australia,1,16,14,True,False,False
+1187028,2020-01-17,Saurashtra Cricket Association Stadium,India,Australia,1,78,76,True,False,True
+1187029,2020-01-19,M.Chinnaswamy Stadium,India,Australia,2,89,92,True,False,True
+1187682,2020-02-05,Seddon Park,India,New Zealand,1,51,68,True,False,True
+1187683,2020-02-08,Eden Park,India,New Zealand,2,15,26,True,False,False
+1187684,2020-02-11,Bay Oval,India,New Zealand,1,9,12,True,False,False
+1223955,2020-11-27,Sydney Cricket Ground,India,Australia,2,21,22,True,False,False
+1223956,2020-11-29,Sydney Cricket Ground,India,Australia,2,89,87,True,False,True
+1223957,2020-12-02,Manuka Oval,India,Australia,1,63,78,True,False,True
+1243393,2021-03-23,Maharashtra Cricket Association Stadium,India,England,1,56,60,True,False,True
+1243394,2021-03-26,Maharashtra Cricket Association Stadium,India,England,1,66,80,True,False,True
+1243395,2021-03-28,Maharashtra Cricket Association Stadium,India,England,1,7,11,True,False,False
+1277082,2022-01-19,"Boland Park, Paarl",India,South Africa,2,51,68,True,False,True
+1277083,2022-01-21,"Boland Park, Paarl",India,South Africa,1,0,5,True,False,False
+1277084,2022-01-23,"Newlands, Cape Town",India,South Africa,2,65,86,True,False,True
+1278676,2022-02-06,"Narendra Modi Stadium, Ahmedabad",India,West Indies,2,8,5,True,False,False
+1278677,2022-02-09,"Narendra Modi Stadium, Ahmedabad",India,West Indies,1,18,30,True,False,False
+1278678,2022-02-11,"Narendra Modi Stadium, Ahmedabad",India,West Indies,1,0,2,True,False,False
+1276908,2022-07-14,"Lord's, London",India,England,2,16,25,True,False,False
+1276909,2022-07-17,"Old Trafford, Manchester",India,England,2,17,22,True,False,False
+1340845,2022-12-04,"Shere Bangla National Stadium, Mirpur",India,Bangladesh,1,9,15,True,False,False
+1340846,2022-12-07,"Shere Bangla National Stadium, Mirpur",India,Bangladesh,2,5,6,True,False,False
+1340847,2022-12-10,"Zahur Ahmed Chowdhury Stadium, Chattogram",India,Bangladesh,1,113,92,True,True,False
+1348643,2023-01-10,"Barsapara Cricket Stadium, Guwahati",India,Sri Lanka,1,113,88,True,True,False
+1348644,2023-01-12,"Eden Gardens, Kolkata",India,Sri Lanka,2,4,13,True,False,False
+1348645,2023-01-15,"Greenfield International Stadium, Thiruvananthapuram",India,Sri Lanka,1,166,112,False,True,False
+1348646,2023-01-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,New Zealand,1,8,10,True,False,False
+1348647,2023-01-21,"Shaheed Veer Narayan Singh International Stadium, Raipur",India,New Zealand,2,11,9,True,False,False
+1348648,2023-01-24,"Holkar Cricket Stadium, Indore",India,New Zealand,1,36,27,True,False,False
+1348656,2023-03-17,"Wankhede Stadium, Mumbai",India,Australia,2,4,9,True,False,False
+1348657,2023-03-19,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,Australia,1,31,37,True,False,False
+1348658,2023-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",India,Australia,2,54,72,True,False,True
+1388394,2023-09-02,Pallekele International Cricket Stadium,India,Pakistan,1,4,8,True,False,False
+1388406,2023-09-10,"R Premadasa Stadium, Colombo",India,Pakistan,1,122,94,False,True,False
+1388407,2023-09-12,"R Premadasa Stadium, Colombo",India,Sri Lanka,1,3,12,True,False,False
+1389390,2023-09-27,"Saurashtra Cricket Association Stadium, Rajkot",India,Australia,2,56,61,True,False,True
+1384396,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",India,Australia,2,85,119,True,False,True
+1384403,2023-10-14,"Narendra Modi Stadium, Ahmedabad",India,Pakistan,2,16,19,True,False,False
+1384408,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",India,Bangladesh,2,103,98,False,True,False
+1384412,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,New Zealand,2,95,107,True,False,True
+1384420,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,England,1,0,9,True,False,False
+1384424,2023-11-02,"Wankhede Stadium, Mumbai",India,Sri Lanka,1,88,96,True,False,True
+1384428,2023-11-05,"Eden Gardens, Kolkata",India,South Africa,1,101,128,False,True,False
+1384436,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",India,Netherlands,1,51,57,True,False,True
+1384437,2023-11-15,"Wankhede Stadium, Mumbai",India,New Zealand,1,117,113,True,True,False
+1384439,2023-11-19,"Narendra Modi Stadium, Ahmedabad",India,Australia,1,54,63,True,False,True
+1442990,2024-08-02,"R Premadasa Stadium, Colombo",India,Sri Lanka,2,24,32,True,False,False
+1442991,2024-08-04,"R Premadasa Stadium, Colombo",India,Sri Lanka,2,14,19,True,False,False
+1442992,2024-08-07,"R Premadasa Stadium, Colombo",India,Sri Lanka,2,20,18,True,False,False
+1439905,2025-02-09,"Barabati Stadium, Cuttack",India,England,2,5,9,True,False,False
+1439906,2025-02-12,"Narendra Modi Stadium, Ahmedabad",India,England,1,52,57,True,False,True
+1466415,2025-02-20,Dubai International Cricket Stadium,India,Bangladesh,2,22,38,True,False,False
+1466418,2025-02-23,Dubai International Cricket Stadium,India,Pakistan,2,100,114,False,True,False
+1466425,2025-03-02,Dubai International Cricket Stadium,India,New Zealand,1,11,14,True,False,False
+1466426,2025-03-04,Dubai International Cricket Stadium,India,Australia,2,84,98,True,False,True
+1466428,2025-03-09,Dubai International Cricket Stadium,India,New Zealand,2,1,2,True,False,False
+1478904,2025-10-19,Perth Stadium,India,Australia,1,0,8,True,False,False
+1478905,2025-10-23,Adelaide Oval,India,Australia,1,0,4,True,False,False
+1478906,2025-10-25,Sydney Cricket Ground,India,Australia,2,74,83,False,False,True
+1479573,2025-11-30,"JSCA International Stadium Complex, Ranchi",India,South Africa,1,135,124,True,True,False
+1479574,2025-12-03,"Shaheed Veer Narayan Singh International Stadium, Raipur",India,South Africa,1,102,96,True,True,False
+1479575,2025-12-06,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,South Africa,2,65,46,False,False,True
+1490231,2026-01-11,"Kotambi Stadium, Vadodara",India,New Zealand,2,93,95,True,False,True
+1490232,2026-01-14,"Niranjan Shah Stadium, Rajkot",India,New Zealand,1,23,30,True,False,False
+1490233,2026-01-18,"Holkar Cricket Stadium, Indore",India,New Zealand,2,124,109,True,True,False
